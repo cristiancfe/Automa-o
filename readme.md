@@ -16,3 +16,11 @@ gerando relatório na linha de comando
 
 cucumber --format html --out=relatorio.html
 
+# Projeto de Automação WEB 
+## cucumber
+## capybara
+## ruby
+## siteprism
+## rspec
+
+
